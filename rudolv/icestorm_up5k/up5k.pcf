@@ -1,0 +1,22 @@
+# upduino
+set_io uart_rx 9
+set_io uart_tx 6
+set_io resetbutt 42
+
+set_io led_r 41
+set_io led_g 39
+set_io led_b 40
+
+set_io testbutt 2
+
+# // Flash SCK  --- fpga spiclk  pin 15
+# // Flash SDO  --- fpga spisi   pin 17
+# // Flash SDI  --- fpga spiso   pin 14
+# // Flash CS   --- fpga spissb  pin 16
+
+set_io spics  16    # CS SSB
+set_io spiclk 15    # CLK
+set_io spido  14    # 
+set_io spidi  17    # fpga input
+
+
