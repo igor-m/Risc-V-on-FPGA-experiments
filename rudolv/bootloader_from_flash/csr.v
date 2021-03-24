@@ -1,5 +1,5 @@
 /* CSR interface
- *
+ * Copyright (c) 2018-2019 Jörg Mische <bobbl@gmx.de>
  * D stage: Set (registered) internal enable signals by decoding `addr`
  * E stage: Set `valid` and `rdata` according to enable signals.
  *          Since `rdata` will be discarded by the pipeline if not reading,

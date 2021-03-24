@@ -1,3 +1,5 @@
+// Copyright (c) 2018-2019 Jörg Mische <bobbl@gmx.de>
+
 #ifndef MYRUDO_H
 #define MYRUDO_H
 

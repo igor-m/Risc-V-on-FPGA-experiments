@@ -8,6 +8,8 @@ CSR
 BC0h    UART
 BC2h    Timer
 
+Copyright (c) 2018-2019 Jörg Mische <bobbl@gmx.de>
+
 MOD:  
 23.3.2021 JoergM - for use with full 128kB of SPRAM
           igor-m - for accessing the UPduino flash

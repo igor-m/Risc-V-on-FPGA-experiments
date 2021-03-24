@@ -1,5 +1,5 @@
 # See LICENSE for license details.
-
+# Copyright (c) 2018-2019 Jörg Mische <bobbl@gmx.de>
 #include "encoding.h"
 
 #if __riscv_xlen == 64

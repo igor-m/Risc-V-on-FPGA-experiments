@@ -1,4 +1,4 @@
-// See LICENSE for license details.
+// See igor-m LICENSE for license details.
 
 //**************************************************************************
 // myrudo
