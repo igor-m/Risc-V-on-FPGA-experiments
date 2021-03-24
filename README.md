@@ -20,6 +20,7 @@ The bootloader does bitbanged SPI via CSRs
  - modded up5k.pcf with UPduino externa 4MB flash wiring
 
 Included myrudo.c 125kB large C test for testing full 128kB of SPRAM 
-Included myrudo.bin for flashing into the flash from 0x100000 (1MB)
+
+Included myrudo.bin to be flashed into the flash from 0x10_0000 (1MB)
 
 
